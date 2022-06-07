@@ -135,7 +135,7 @@ no localhost na porta :80 </p>
 
 # Requesitos
 
-<p>Usei um bom editor de de códico [VSCode](https://code.visualstudio.com/) </p>
+<p>Usei um bom editor de de códico <a href="https://code.visualstudio.com/">VSCode</a> </p>
 
 <p>Para você entrar no site você terá que ter o pacote xammp ou wamp instalado no seu computador e ligar o MySql e apache no servidor local</p>
 
@@ -158,7 +158,7 @@ As sequintes ferramentas foram usadas na contrução do projeto
  * [Banco-de-Dados-Xampp](https://www.apachefriends.org/pt_br/index.html)
 
 
-<p>Made with 💜 by Marcelo Benites 👋 [See my Linkedln](https://www.linkedin.com/in/marcelo-benites-2a2893168/)
+<p>Made with 💜 by Marcelo Benites 👋 <a href="https://www.linkedin.com/in/marcelo-benites-2a2893168/"> See my Linkedln </a>
 
 
  
