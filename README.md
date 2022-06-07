@@ -135,6 +135,8 @@ no localhost na porta :80 </p>
 
 # Requesitos
 
+<p>Usei um bom editor de de códico [VSCode](https://code.visualstudio.com/) </p>
+
 <p>Para você entrar no site você terá que ter o pacote xammp ou wamp instalado no seu computador e ligar o MySql e apache no servidor local</p>
 
 <p>Instalando você terá acesso a pasta do xampp ou do wamp ou do servidor relacional que você tiver em seu computador e colocar o seu projeto lá dentro </p>
@@ -147,9 +149,19 @@ no localhost na porta :80 </p>
 </br>
 
 # Tecnologia
-<p>As tecnologias na elaboração do site foi feito com a linguagem, HTML5,CSS3,PHP:7.4,JavaScropt e Jquery.</p>
-<p>As APIS usadas foram a API do google maps e PHPMailer</p>
+As sequintes ferramentas foram usadas na contrução do projeto
+ 
+ * [JavaScript](https://www.javascript.com/)
+ * [HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
+ * [CSS3](https://www.w3schools.com/css/)
+ * [PHP-Version-7.4](https://www.php.net/)
+ * [Banco-de-Dados-Xampp](https://www.apachefriends.org/pt_br/index.html)
 
+
+<p>Made with 💜 by Marcelo Benites 👋 [See my Linkedln](https://www.linkedin.com/in/marcelo-benites-2a2893168/)
+
+
+ 
 
 
 
